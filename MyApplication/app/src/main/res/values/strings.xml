@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">LE THI PHUONG LUONG</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Luong.
+\n\nI am live in Quang Ngai.
+\n\nNow i am living in Da Nang.
+\n\nI am a student at VKU.
+\n\nI am 20 years old.
+\n\nMy mail: ltpluong.19it3@vku.udn.vn.
+\n\nSometimes I play badminton with my friend.
+\n\naaaa
+    \n\nbbbb
+    \n\nccccc
+    \n\ndddd</string>
+    <string name="todo">TODO</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
